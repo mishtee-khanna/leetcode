@@ -2,24 +2,6 @@
 
 A collection of my LeetCode solutions, organized by topic and difficulty. This repository serves as a reference for practicing algorithms, data structures, and coding interview questions.
 
-## 📂 Repository Structure
-
-```
-.
-├── Arrays/
-├── Strings/
-├── Linked List/
-├── Trees/
-├── Graphs/
-├── Dynamic Programming/
-├── Backtracking/
-├── Greedy/
-├── Math/
-└── ...
-```
-
-> The folder structure may change as more problems are added.
-
 ## 🎯 Goals
 
 - Solve LeetCode problems consistently.
