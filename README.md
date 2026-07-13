@@ -49,7 +49,7 @@ Every solution focuses on:
 
 | Metric | Count |
 |:---|:---:|
-| 🧩 Problems Solved | **73+** |
+| 🧩 Problems Solved | **250+** |
 | 💻 Language | **C++** |
 | 📚 Topics Covered | **12+** |
 | ⭐ Target Problems | **500+** |
