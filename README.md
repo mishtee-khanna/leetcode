@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=750&lines=Solving+Problems+One+Algorithm+at+a+Time;Building+Strong+DSA+Foundations;73%2B+LeetCode+Solutions;Preparing+for+Software+Engineering+Interviews" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=750&lines=Solving+Problems+One+Algorithm+at+a+Time;Building+Strong+DSA+Foundations;250+%2B+LeetCode+Solutions;Preparing+for+Software+Engineering+Interviews" />
 
 <br/>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-260-success?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-250-success?style=for-the-badge)
 ![Topics Covered](https://img.shields.io/badge/Topics-12%2B-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
