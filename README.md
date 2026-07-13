@@ -8,7 +8,7 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-250-success?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-250+-success?style=for-the-badge)
 ![Topics Covered](https://img.shields.io/badge/Topics-12%2B-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
