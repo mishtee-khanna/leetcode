@@ -1,6 +1,12 @@
 # 🧩 LeetCode Solutions | DSA Journey
 
 <div align="center">
+<a href="https://leetcode.com/mishtee_khanna/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=750&lines=Solving+Problems+One+Algorithm+at+a+Time;Building+Strong+DSA+Foundations;250+%2B+LeetCode+Solutions;Preparing+for+Software+Engineering+Interviews" />
 
