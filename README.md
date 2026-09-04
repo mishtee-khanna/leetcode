@@ -1,95 +1,112 @@
 # 🧩 LeetCode Solutions | DSA Journey
 
 <div align="center">
+
 <a href="https://leetcode.com/mishtee_khanna/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-</div>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=750&lines=Solving+Problems+One+Algorithm+at+a+Time;Building+Strong+DSA+Foundations;180%2B+LeetCode+Solutions;Preparing+for+Software+Engineering+Interviews" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=800&lines=Solving+Problems+One+Algorithm+at+a+Time;Building+Strong+DSA+Foundations;250%2B+LeetCode+Solutions;Preparing+for+Software+Engineering+Interviews" />
 
-<br/>
+<br/><br/>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-180%2B-success?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-250%2B-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-<br>
-
-**A growing collection of LeetCode solutions written in C++, solved and pushed one problem at a time.**
+**A growing collection of LeetCode solutions in C++, built through consistent DSA practice and interview preparation.**
 
 </div>
 
 ---
 
-# 📖 About
+## 📖 About
 
 Welcome to my **LeetCode DSA Repository** 🚀
 
-This is my running archive of LeetCode problems solved in C++ — no folders, no fuss, just `problem_number.cpp` (or a short descriptive name when I solved it off a specific pattern, like `koko_eating_banana.cpp`).
+This repository is my personal archive of LeetCode problems solved in **C++**. Each solution is kept simple, searchable, and focused on the core idea behind the problem.
 
-The purpose of this repository is to:
+### 🎯 What I'm Practicing
 
-- 🧠 Build DSA fundamentals one problem at a time
-- ⚡ Practice writing clean, working C++
-- 💼 Prepare for software engineering interviews
-- 🔁 Keep an easily searchable revision archive
+- 🧠 Data Structures & Algorithms
+- ⚡ Problem-solving and optimization
+- 💻 Clean and efficient C++ implementations
+- 🔁 Pattern recognition and revision
+- 💼 Technical interview preparation
 
 ---
 
-# 📊 Repository Statistics
+## 📊 Repository Statistics
 
-| Metric | Count |
+| Metric | Details |
 |:---|:---:|
-| 🧩 Problems Solved | **180** |
-| 💻 Language | **C++** |
-| 🗂 Structure | Flat (no folders) |
-| 🚀 Repository Status | Active — updated as I solve more |
+| 🧩 Problems Solved | **250+** |
+| 💻 Primary Language | **C++** |
+| 📁 Repository Style | **Flat structure** |
+| 🚀 Status | **Active & continuously updated** |
+| 🎯 Next Milestone | **500 Problems** |
 
 ---
 
-# 📂 Repository Structure
+## 🧠 DSA Topics Covered
 
-No topic folders here — every solution lives directly in the repo root, so you can jump straight to a problem without digging through subdirectories.
+| Topic | Examples of Patterns |
+|:---|:---|
+| 🔢 Arrays & Strings | Two Pointers, Prefix Sum, Sliding Window |
+| 🔗 Linked Lists | Fast & Slow Pointers, Reversal |
+| 🌳 Trees & BST | DFS, BFS, Recursion, Traversals |
+| 🕸️ Graphs | BFS, DFS, Graph Traversal |
+| 🔥 Dynamic Programming | Memoization, Tabulation, Optimization |
+| 🎯 Binary Search | Search Space, Rotated Arrays, Bounds |
+| 🔙 Backtracking | Subsets, Permutations, N-Queens |
+| 📚 Stack & Queue | Monotonic Stack, Traversal |
+| #️⃣ Hashing | Frequency Maps, Lookup Optimization |
+| 🧮 Greedy | Local Optimal Choices |
 
-```
+---
+
+## 📂 Repository Structure
+
+Solutions are stored directly in the repository root for quick access.
+
+```text
 leetcode/
 │
 ├── 3.cpp
 ├── 15.cpp
 ├── 42.cpp
+├── 79.cpp
 ├── 94.cpp
 ├── 198.cpp
-├── ...                          ← 165 files named after their LeetCode problem number
+├── 206.cpp
+├── ...
 │
-├── capacity_to_ship_packages.cpp
+├── binary_search_variant.cpp
 ├── koko_eating_banana.cpp
 ├── search_in_rotated_sorted_array.cpp
-├── ...                          ← 15 files named after the pattern/problem they practice
+├── ...
 │
 └── README.md
 ```
 
-**Naming convention:**
+### Naming Convention
 
-| Style | Meaning | Example |
+| File Name | Meaning | Example |
 |:---|:---|:---|
-| `<number>.cpp` | Named after the official LeetCode problem number | `217.cpp` → Contains Duplicate |
-| `<description>.cpp` | Named after the pattern practiced (mostly Binary Search variants) | `smallest_divisor.cpp` |
-
-Not sure what a numbered file is? Search the number directly on [leetcode.com/problems](https://leetcode.com/problemset/) and it'll pull it right up.
+| `<number>.cpp` | LeetCode problem number | `217.cpp` → Contains Duplicate |
+| `<description>.cpp` | Descriptive name for a problem/pattern | `koko_eating_banana.cpp` |
 
 ---
 
-# ⭐ A Few Favorites
+## ⭐ Selected Problems
 
 | Problem | Technique | File |
 |:---|:---|:---|
-| 🌧 Trapping Rain Water | Two Pointer | `42.cpp` |
-| 🎯 3Sum | Two Pointer + Sorting | `15.cpp` |
+| 🌧️ Trapping Rain Water | Two Pointers | `42.cpp` |
+| 🎯 3Sum | Sorting + Two Pointers | `15.cpp` |
 | 🔥 House Robber | Dynamic Programming | `198.cpp` |
 | 🌊 Word Search | DFS + Backtracking | `79.cpp` |
 | 🌳 Binary Tree Inorder Traversal | DFS / Recursion | `94.cpp` |
@@ -99,47 +116,54 @@ Not sure what a numbered file is? Search the number directly on [leetcode.com/pr
 
 ---
 
-# ▶️ Running Solutions
+## ▶️ Running a Solution
 
-Every file is self-contained and copy-paste-ready — no setup needed. Compile any solution:
+Solutions use standard C++ and can be compiled with GCC or Clang.
 
 ```bash
 g++ -std=c++17 solution.cpp -o solution
 ./solution
 ```
 
-| Tool | Requirement |
+| Requirement | Version / Tool |
 |:---|:---|
-| Compiler | GCC / Clang |
+| Language | C++ |
 | Standard | C++17 |
-| STL | Enabled |
+| Compiler | GCC / Clang |
+| Libraries | C++ STL |
 
 ---
 
-# 🚀 Goals
+## 🚀 Progress & Goals
 
-| Goal | Status |
+| Milestone | Status |
 |:---|:---:|
-| Solve 100 Problems | ✅ Done |
-| Solve 180 Problems | ✅ Done |
-| Solve 250 Problems | 🎯 In progress |
-| Solve 500 Problems | 🚀 Long-term |
-| Crack Product-Based Interviews | 💼 |
+| 100 Problems | ✅ Completed |
+| 180 Problems | ✅ Completed |
+| 250 Problems | ✅ Completed |
+| 500 Problems | 🎯 In Progress |
+| 750 Problems | 🚀 Future Goal |
+| Strong DSA Interview Readiness | 💼 In Progress |
+
+### 🔥 The Goal
+
+**Consistency over speed.**
+
+Every problem is an opportunity to learn a new pattern, improve complexity, and become a better problem solver.
 
 ---
 
-# 🤝 Contribution
+## 🤝 Feedback & Contribution
 
-This repository is mainly a personal learning archive.
+This is primarily a personal learning and interview-preparation repository, but suggestions are welcome!
 
-Suggestions are welcome:
+Feel free to share:
 
-- Better approaches
-- Optimization ideas
-- Bug fixes
-- Edge cases
-
-Feel free to open an issue or pull request.
+- 💡 Better approaches
+- ⚡ Complexity optimizations
+- 🐛 Bug fixes
+- 🧪 Missing edge cases
+- 🧠 Alternative solutions
 
 ---
 
@@ -147,6 +171,6 @@ Feel free to open an issue or pull request.
 
 ## ⭐ Keep Learning • Keep Building • Keep Solving
 
-**Consistency creates mastery 🚀**
+**Consistency creates mastery. 🚀**
 
 </div>
