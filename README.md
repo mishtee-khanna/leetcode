@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:c77dff,100:8a2be2&height=180&section=header&text=LeetCode%20%7C%20DSA%20Journey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,50:ffb347,100:ffffff&height=180&section=header&text=LeetCode%20%7C%20DSA%20Journey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 💗 Turning problems into patterns, one solution at a time.
+### 🧡 Turning problems into patterns, one solution at a time.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=780&lines=250%2B+LeetCode+Solutions;DSA+%7C+C%2B%2B+%7C+Problem+Solving;Learning+Something+New+Every+Day;Preparing+for+Software+Engineering+Interviews" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=780&lines=250%2B+LeetCode+Solutions;DSA+%7C+C%2B%2B+%7C+Problem+Solving;Learning+Something+New+Every+Day;Preparing+for+Software+Engineering+Interviews" />
 
 <br/>
 
 <a href="https://leetcode.com/mishtee_khanna/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/C%2B%2B-17-8A2BE2?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Problems-250%2B-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Active-C77DFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C%2B%2B-17-FF8C00?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Problems-250%2B-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-F5F5F5?style=for-the-badge&labelColor=FF8C00" />
 
 <br/><br/>
 
-> 🌷 **Consistency over speed.** Every problem is another step toward becoming a stronger problem solver.
+> 🧡 **Consistency over speed.** Every problem is another step toward becoming a stronger problem solver.
 
 </div>
 
 ---
 
-## 🎀 About Me & This Journey
+## 🧡 About Me & This Journey
 
 Welcome to my **LeetCode + DSA journey** 💻✨
 
@@ -35,7 +35,7 @@ This repository is my personal collection of algorithmic problems solved primari
 
 </div>
 
-### 💕 Currently Focusing On
+### 🧡 Currently Focusing On
 
 - 🧩 Data Structures & Algorithms
 - ⚡ Time & Space Complexity
@@ -47,7 +47,7 @@ This repository is my personal collection of algorithmic problems solved primari
 
 ## 🧠 DSA Roadmap
 
-| 🌸 Topic | ✨ Key Patterns |
+| 🧡 Topic | ✨ Key Patterns |
 |:---|:---|
 | 🔢 **Arrays & Strings** | Two Pointers • Sliding Window • Prefix Sum |
 | 🔗 **Linked Lists** | Fast & Slow Pointers • Reversal |
@@ -62,11 +62,11 @@ This repository is my personal collection of algorithmic problems solved primari
 
 ---
 
-## 🌷 Highlighted Problems
+## 🧡 Highlighted Problems
 
 <div align="center">
 
-| 💗 Problem | 🧠 Pattern | 📁 Solution |
+| 🧡 Problem | 🧠 Pattern | 📁 Solution |
 |:---|:---|:---:|
 | 🌧️ Trapping Rain Water | Two Pointers | [`42.cpp`](42.cpp) |
 | 🎯 3Sum | Sorting + Two Pointers | [`15.cpp`](15.cpp) |
@@ -89,17 +89,17 @@ This repository is my personal collection of algorithmic problems solved primari
 |:---:|:---:|
 | 100 Problems | ✅ Completed |
 | 180 Problems | ✅ Completed |
-| **250 Problems** | 💗 **Completed** |
+| **250 Problems** | 🧡 **Completed** |
 | 500 Problems | 🎯 In Progress |
 | 750 Problems | 🚀 Future Goal |
 
 <br/>
 
-**250+** 🩷 ━━━━━━━━━━━━━━━━━━━━ **500** 🎯
+**250+** 🧡 ━━━━━━━━━━━━━━━━━━━━ **500** 🎯
 
 </div>
 
-### 🌸 My Goal
+### 🧡 My Goal
 
 > **Consistency over speed.**
 >
@@ -158,10 +158,10 @@ g++ -std=c++17 solution.cpp -o solution
 
 <div align="center">
 
-### 🌷 Solve the problem.
+### 🧡 Solve the problem.
 ### 🧠 Understand the pattern.
 ### ⚡ Improve the complexity.
-### 💗 Repeat until it becomes intuition.
+### 🧡 Repeat until it becomes intuition.
 
 </div>
 
@@ -176,14 +176,14 @@ Found a better approach, edge case, or optimization?
 - 🐛 Report an issue
 - 🧪 Point out an edge case
 
-Every suggestion is another opportunity to learn. 🌸
+Every suggestion is another opportunity to learn. 🧡
 
 ---
 
 <div align="center">
 
-### 💗 Keep Learning • Keep Building • Keep Solving 💗
+### 🧡 Keep Learning • Keep Building • Keep Solving 🧡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:c77dff,100:8a2be2&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,50:ffb347,100:ffffff&height=110&section=footer" width="100%"/>
 
 </div>
