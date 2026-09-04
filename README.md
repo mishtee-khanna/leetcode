@@ -45,23 +45,6 @@ This repository is my personal collection of algorithmic problems solved primari
 
 ---
 
-## 📊 My DSA Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mishtee-khanna&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=c77dff&text_color=555555&bg_color=fff7fb" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishtee-khanna&layout=compact&hide_border=true&title_color=ff69b4&text_color=555555&bg_color=fff7fb" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=mishtee-khanna&hide_border=true&background=FFF7FB&ring=FF69B4&fire=C77DFF&currStreakLabel=FF69B4&sideLabels=8A2BE2&dates=777777" />
-
-</div>
-
-> ℹ️ GitHub activity cards reflect GitHub activity and are separate from the LeetCode problem count shown above.
-
----
-
 ## 🧠 DSA Roadmap
 
 | 🌸 Topic | ✨ Key Patterns |
