@@ -7,39 +7,37 @@ class Solution {
 public:
     string removeOuterParentheses(string s) {
         string result = "";
-        int depth = 0;
-        
+        int opened = 0;
+
         for (char c : s) {
             if (c == '(') {
-                // If depth > 0, this '(' is inside a primitive string
-                if (depth > 0) {
+                if (opened > 0) {
                     result += c;
                 }
-                depth++;
+                opened++;
             } else {
-                // Decrement depth first for a closing parenthesis
-                depth--;
-                // If depth > 0, this ')' is inside a primitive string
-                if (depth > 0) {
+                opened--;
+                if (opened > 0) {
                     result += c;
                 }
             }
         }
-        
+
         return result;
     }
 };
 
 int main() {
-    Solution solver;
-    
-    // Example 1: "(()())(())" -> "()()()"
+    Solution sol;
+
+    // Test cases
     string s1 = "(()())(())";
-    cout << "Input:  " << s1 << "\nOutput: " << solver.removeOuterParentheses(s1) << "\n\n";
-    
-    // Example 2: "(()())(())(()(()))" -> "()()()()(())"
     string s2 = "(()())(())(()(()))";
-    cout << "Input:  " << s2 << "\nOutput: " << solver.removeOuterParentheses(s2) << "\n\n";
-    
+    string s3 = "()()";
+
+    cout << "Input:  \"" << s1 << "\"\nOutput: \"" << sol.removeOuterParentheses(s1) << "\"\n\n";
+    cout << "Input:  \"" << s2 << "\"\nOutput: \"" << sol.removeOuterParentheses(s2) << "\"\n\n";
+    cout << "Input:  \"" << s3 << "\"\nOutput: \"" << sol.removeOuterParentheses(s3) << "\"\n";
+
     return 0;
 }
